@@ -1,0 +1,3 @@
+The DevOps is the combination of two words, one is Development and other is Operations. It is a culture to promote the development and operation process collectively.
+
+The DevOps tutorial will help you to learn DevOps basics and provide depth knowledge of various DevOps tools such as Git, Ansible, Docker, Puppet, Jenkins, Chef, Nagios, and Kubernetes.
